@@ -1,0 +1,7 @@
+<suite name="KaiCareSuite">
+    <test name="Regression">
+        <classes>
+            <class name="tests.LoginTest"/>
+        </classes>
+    </test>
+</suite>
